@@ -1,2 +1,2 @@
-# HelloWord
+# HelloWorld
 Preparation for upcoming project
